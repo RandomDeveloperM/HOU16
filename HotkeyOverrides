@@ -1,0 +1,13 @@
+h.pane.wsheet.flag4_mode	"Set Fourth Flag"	"Hold this key and select a node to toggle a fourth flag value"	
+h.pane.gview.primitive_snap_toggle	"Toggle Primitive Snapping"	"Toggle primitive snapping"	 U
+h.pane.wsheet.tool:wrangle	"AttribWrangle (W)"	"Shelf Tool: AttribWrangle (W)"	 W
+h.pane.wsheet.hide	"Hide Selected"	"Hide selected operators"	 Shift+E
+h.pane.wsheet.tool:null	"Null (N)"	"Shelf Tool: Null (N)"	 N
+h.pane.wsheet.flag1_mode	"Set Primary Flag"	"Hold this key and select a node to toggle the primary flag value"	
+h.pane.gview.tool:BG_color	"BG Color"	"Shelf Tool: BG Color"	 C
+h.pane.wsheet.tool:merge	"Merge (M)"	"Shelf Tool: Merge (M)"	 M
+h.pane.gview.custom_radial_menu	"Viewport Custom Radial Menu"	"Open the custom radial menu in the viewport"	 Shift+J
+h.pane.wsheet.tool:blast	"Blast (B)"	"Shelf Tool: Blast (B)"	 B
+h.pane.wsheet.tool:xform	"Transform (X)"	"Shelf Tool: Transform (X)"	 T
+h.pane.wsheet.expose	"Expose All"	"Expose all hidden operators"	 Ctrl+Shift+E
+h.pane.wsheet.bypass_mode	"Set Bypass Flag"	"Hold this key and select a node to toggle the bypass flag value"	 Q
